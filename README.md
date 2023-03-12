@@ -4,7 +4,7 @@ Avengers Face Recognition is an exciting computer vision project that aims to re
 
 ## Screenshots
 
-![Prediction Result Snippet](https://drive.google.com/file/d/1j0rU2yHjp_MAMHvMgrtBJT9Sl3JUAS-5/view?usp=sharing)
+![Prediction Result Snippet](https://drive.google.com/file/d/1j0rU2yHjp_MAMHvMgrtBJT9Sl3JUAS-5/view)
 
 
 ## Requirements
